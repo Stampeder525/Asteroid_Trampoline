@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Earth
+  - Asteroid
+  - Trampoline
+  - HealthPack
+  - Shockwave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Midground
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 566672959
+    locked: 0
+  - name: Midground
+    uniqueID: 4185021779
+    locked: 0
+  - name: Foreground
+    uniqueID: 206534829
+    locked: 0
+  - name: Outline
+    uniqueID: 3493034665
+    locked: 0
